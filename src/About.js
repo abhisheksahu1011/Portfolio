@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import aboutImg from "./img/about.jpg";
+import aboutImg from "./img/about.png";
 import cv from "./img/Abhishek Cv.pdf"
 function About() {
   //  Up To Top Btn
